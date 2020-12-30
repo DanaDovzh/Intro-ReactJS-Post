@@ -23,5 +23,5 @@
 Посилання на зображення вище у прикладі виклику як константи.
 Галочки та іконки лайку/шерингу/коментів/репостів потрібно опустити, а можна і покреативити.
 
-[Результат](https://danadovzh.github.io/Cursor_Education/Front-end.%20Advanced/HW15-ReactJS-basic/public/index.html)
+[Результат](https://reactjspost.netlify.app/)
 
