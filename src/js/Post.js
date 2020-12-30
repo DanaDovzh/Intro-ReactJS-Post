@@ -7,7 +7,7 @@ const Post = (props) => {
     return(
         <div className = "post" id = {personPost.id}>
                 <div className = "post__heading">
-                    <div><img src={personPost.photo} className = "post__heading--photo"/>
+                    <div><img alt = {personPost.name} src={personPost.photo} className = "post__heading--photo"/>
                     </div>
                     <div className = "post__heading--info">
                         <div className = "post__heading--personal-info">
@@ -23,7 +23,7 @@ const Post = (props) => {
                     </div>
                 </div> 
                 <div className = "post__body">
-                    <img src = {personPost.imageContent} className = "post__body--content"/>
+                    <img src = {personPost.imageContent} alt = "Post" className = "post__body--content"/>
                 </div>
                 <div className = "post__footer">
                     <p className = "post__footer--comments post-action">{personPost.comments}</p>
