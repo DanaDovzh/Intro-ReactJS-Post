@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Intro-ReactJS-Post/static/css/main.bd73e492.chunk.css",
+    "main.js": "/Intro-ReactJS-Post/static/js/main.ab018bd1.chunk.js",
+    "main.js.map": "/Intro-ReactJS-Post/static/js/main.ab018bd1.chunk.js.map",
+    "runtime-main.js": "/Intro-ReactJS-Post/static/js/runtime-main.933606c7.js",
+    "runtime-main.js.map": "/Intro-ReactJS-Post/static/js/runtime-main.933606c7.js.map",
+    "static/js/2.907d81f8.chunk.js": "/Intro-ReactJS-Post/static/js/2.907d81f8.chunk.js",
+    "static/js/2.907d81f8.chunk.js.map": "/Intro-ReactJS-Post/static/js/2.907d81f8.chunk.js.map",
+    "static/js/3.f3888449.chunk.js": "/Intro-ReactJS-Post/static/js/3.f3888449.chunk.js",
+    "static/js/3.f3888449.chunk.js.map": "/Intro-ReactJS-Post/static/js/3.f3888449.chunk.js.map",
+    "index.html": "/Intro-ReactJS-Post/index.html",
+    "static/css/main.bd73e492.chunk.css.map": "/Intro-ReactJS-Post/static/css/main.bd73e492.chunk.css.map",
+    "static/js/2.907d81f8.chunk.js.LICENSE.txt": "/Intro-ReactJS-Post/static/js/2.907d81f8.chunk.js.LICENSE.txt",
+    "static/media/general.css": "/Intro-ReactJS-Post/static/media/share.e1c80149.svg",
+    "static/media/Walt_Disney.935486f7.jpg": "/Intro-ReactJS-Post/static/media/Walt_Disney.935486f7.jpg",
+    "static/media/joan-rolling.87038b1b.jpg": "/Intro-ReactJS-Post/static/media/joan-rolling.87038b1b.jpg",
+    "static/media/mark_zuckerberg.132683e9.jpg": "/Intro-ReactJS-Post/static/media/mark_zuckerberg.132683e9.jpg",
+    "static/media/post_joan.66574bde.jpg": "/Intro-ReactJS-Post/static/media/post_joan.66574bde.jpg",
+    "static/media/post_mark.ee44b803.jpg": "/Intro-ReactJS-Post/static/media/post_mark.ee44b803.jpg",
+    "static/media/post_walt.ea2fce57.jpg": "/Intro-ReactJS-Post/static/media/post_walt.ea2fce57.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.933606c7.js",
+    "static/js/2.907d81f8.chunk.js",
+    "static/css/main.bd73e492.chunk.css",
+    "static/js/main.ab018bd1.chunk.js"
+  ]
+}
